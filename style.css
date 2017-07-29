@@ -1,0 +1,74 @@
+*{
+    margin: auto;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Bradley Hand ITC";
+    font-size: 20px;
+}
+.container{
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+margin-bottom: auto;
+}
+
+.blog-post{
+    background-color: aqua;
+}
+h1{
+    color: #00960b;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    color: #00960b;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+ul{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+p{
+    text-align: justify;
+}
+.main-text{
+    text-align: justify;
+}
+
+.author-text{
+    background-color: #FF312D;
+    font-size: 25px;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#imgfloat{
+    FLOAT:Left;
+}
+.author-box{
+    background-color: blue;
+    width: auto;
+    float: left;
+}
+.author-box image{
+ height: 100px;
+    width: 100px;
+    border-radius: 40%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.other-posts{
+    width: auto;
+    float: left;
+}
