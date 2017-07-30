@@ -1,9 +1,10 @@
 1.Collect designs that you like.
-
+蒐集你喜歡的設計樣板
 2.Try to understand everything about them.
-
+試著了解這些設計的緣由與方法
 3.Why do they good look?
-
+想著~ 為何別人的設計這麼好看?
 4.What do these sites have in common?
 
 5.How were they built HTML and CSS?
+他們的樣板的HTML、CSS如何建立?
